@@ -1,6 +1,6 @@
 ![Alt text](https://i.ibb.co/51c1mHQ/banner.jpg)
 <h1 align="center">Hi 👋, I'm Rubel Masud</h1>
-<h3 align="center">A passionate frontend developer from Rangpur , Bangladesh</h3>
+<h3 align="center">A passionate Junior Web-Developer from Rangpur , Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubelmasud&label=Profile%20views&color=0e75b6&style=flat" alt="rubelmasud" /> </p>
 
