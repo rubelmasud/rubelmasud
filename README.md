@@ -1,4 +1,4 @@
-![Alt text]([https://i.ibb.co/51c1mHQ/banner.jpg](https://ibb.co/hy5NxxJ))
+![Alt text]([[https://i.ibb.co/51c1mHQ/banner.jpg](https://ibb.co/hy5NxxJ"><img src="https://i.ibb.co/HVvyLLf/371133849-1429496967617435-9130588230358559264-n.png)](https://ibb.co/hy5NxxJ))
 <h1 align="center">Hi 👋, I'm Rubel Masud</h1>
 <h3 align="center">A passionate Junior Web-Developer from Rangpur , Bangladesh</h3>
 
