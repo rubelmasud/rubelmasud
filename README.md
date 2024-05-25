@@ -1,8 +1,10 @@
 
-![banner ](https://i.ibb.co/SrFBSD5/React-Developer.png)
+![banner ](https://i.ibb.co/p1r3VKY/1697857713764.jpg)
 <h1 align="center">Hi 👋, I'm Rubel Masud</h1>
 <h3 align="center">A passionate frontend developer from Nilphamari, Bangladesh</h3>
-<img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Codding" />
+<div display="flex" justify-content="center" align="center" width="400" margin="auto">
+  <img   width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Codding" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubelmasud&label=Profile%20views&color=0e75b6&style=flat" alt="rubelmasud" /> </p>
 
